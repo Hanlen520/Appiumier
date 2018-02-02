@@ -47,6 +47,7 @@ nickname = "runcheck4"
 
 启动app后若发生activity的切换则需要设置AppWaitActivity
 '''
+
 desired_caps_zww = {
     'deviceName': 'ZTE BV0720',
     'platformVersion': '6.0',

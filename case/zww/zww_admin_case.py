@@ -12,7 +12,7 @@ class ZwwAdminCase(Appium):
     @exe_deco
     def zww_admin_case(self, nickname, userid):
         # 关闭弹窗
-        self.try_click_by_id("com.netease.ldzww:id/iv_fresher_dialog_close")
+        self.click_by_id("com.netease.ldzww:id/iv_fresher_dialog_close")
         # 点击个人中心按钮
         self.click_by_id("com.netease.ldzww:id/iv_enter_mine")
         # 点击头像

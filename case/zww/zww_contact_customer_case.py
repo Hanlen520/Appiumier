@@ -13,6 +13,8 @@ class ZwwContactCustomerCase(Appium):
     def zww_contact_customer_case(self):
         # 点击联系客服按钮
         self.click_by_id("com.netease.ldzww:id/item_contact_customer")
+        # 如果进入非人工客服页面，尝试点击人工客服按钮
+        self.click_by_text("人工客服")
         # 输入文字内容
         self.input_by_id("com.netease.ldzww:id/editTextMessage", "测试内容！随意回复~")
         # 点击表情按钮
