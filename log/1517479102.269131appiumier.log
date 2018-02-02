@@ -1,0 +1,8 @@
+2018-02-01 17:59:30,796-[INFO]-zww_login_case测试通过,用时:14.621
+2018-02-01 17:59:38,090-[INFO]-zww_admin_case测试通过,用时:7.292
+2018-02-01 17:59:51,366-[INFO]-zww_contact_customer_case测试通过,用时:13.275
+2018-02-01 18:00:39,124-[INFO]-zww_address_case测试通过,用时:47.757
+2018-02-01 18:00:46,058-[INFO]-zww_has_captured_case测试通过,用时:6.934
+2018-02-01 18:00:49,867-[INFO]-zww_captured_record_case测试通过,用时:3.808
+2018-02-01 18:00:57,024-[INFO]-zww_settings_case测试通过,用时:7.156
+2018-02-01 18:00:58,015-[INFO]-zww_index_page_case测试通过,用时:0.992
